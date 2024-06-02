@@ -1,1 +1,1 @@
-# Analysis-Design-of-Novel-ZSI-for-Renewable-Energy-Applications
+This project designs three novel impedance source converters which are not only efficient but also provides higher boosting and also solves the issues of common grounding in Renewable Energy Applications. 
